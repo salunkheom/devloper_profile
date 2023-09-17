@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(230 222 198);
+}
+
+.bor {
+    text-align: center;
+}
+
+#h3 {
+    font-size: 30px;
+}
+
+#j {
+    font-size: 40px;
+}
+
+.boy {
+    text-align: center;
+    font-size: 25px;
+}
+
+#y {
+    font-size: 50px;
+}
+
+.flex {
+    display: flex;
+    gap: 5px;
+}
+
+.foot {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding: 50px;
+    background-color: rgb(199 190 162);
+}
+
+.right {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 50px;
+    font-size: 25px;
+}
+
+.cont {
+    background-color: rgb(151, 173, 49);
+    width: 50%;
+    padding: 5px;
+}
+
+.about {
+    background-color: rgb(205, 140, 61);
+    padding: 5px;
+    width: 50%;
+}
